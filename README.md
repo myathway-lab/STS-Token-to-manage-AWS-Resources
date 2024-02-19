@@ -1,0 +1,1 @@
+# STS-Token-to-manage-AWS-Resources
